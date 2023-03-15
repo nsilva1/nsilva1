@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Neto Ukpong. A front end developer.
-- 👀 I’m interested in web & mobile front end development. 
-- 🌱 I’m currently transitioning to become a full stack developer.
+- 👋 Hi, I’m Neto Ukpong. A full stack developer.
+- 👀 my fronted stack is React for Web and flutter for mobile.
+- 🌱 my backend stack is FastApi with postgresql and mongodb.
 - 💞️ I’m looking to collaborate on any unique project.
 - 📫 You can reach me on netoukpong@gmail.com
 
